@@ -16,7 +16,6 @@ Kelompok 1 :
 # Langkah-langkah Analisis
 1. Menggunakan **CellMap** untuk memastikan lokasi dari tower **BTS** terdekat.
 2. Melakukan analisis data seluler dengan **Network Cell Info** di rumah.
-   ![NCI Rumah](https://github.com/user-attachments/assets/72909f42-d0f6-4672-a1b5-dbd1e7ae8a4d)
 4. Melakukan analisis data seluler dengan **Network Cell Info** di dekat tower BTS.
 5. Melakukan analisis kualitas WiFi dengan **WiFi Analyzer** pada jarak agak jauh.
 6. Melakukan analisis kualitas WiFi dengan **WiFi Analyzer** pada jarak dekat.
