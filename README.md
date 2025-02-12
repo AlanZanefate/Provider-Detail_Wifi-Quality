@@ -19,3 +19,4 @@ M. Azrell Samudra
 3. Melakukan analisis data seluler dengan **Network Cell Info** di dekat tower BTS.
 4. Melakukan analisis kualitas WiFi dengan **WiFi Analyzer** pada jarak agak jauh.
 5. Melakukan analisis kualitas WiFi dengan **WiFi Analyzer** pada jarak dekat.
+
