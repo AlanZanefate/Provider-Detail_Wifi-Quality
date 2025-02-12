@@ -2,10 +2,10 @@
 Repository ini berisi mengenai analisis beberapa provider jaringan menggunakan aplikasi **Network Cell Info** dan kualitas WiFi dengan aplikasi **WiFi Analyzer**.
 
 Kelompok 1 :
-Alamsyah Putra
-Muhammad Zihni Athallah
-Muhammad Ghozi Qudama
-M. Azrell Samudra
+1. Alamsyah Putra
+2. Muhammad Zihni Athallah
+3. Muhammad Ghozi Qudama
+4. M. Azrell Samudra
 
 # Alat yang digunakan untuk analisis
 1. Network Cell Info, untuk mengetahui detail dari provider jaringan yang digunakan.
