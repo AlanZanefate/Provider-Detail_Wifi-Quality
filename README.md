@@ -19,6 +19,7 @@ Kelompok 1 :
    a. Muhammad Azrell Samudra
 
    Sinyal LTE ISAT memiliki RSRP -94 dBm, yang masuk kategori sedang dan cukup stabil untuk penggunaan normal. RSRQ -11 dB masih tergolong cukup baik, tetapi semakin mendekati -20 dB kualitasnya menurun. RSSNR 4.0 dB menunjukkan rasio sinyal terhadap noise yang cukup baik, meskipun lebih tinggi lebih diinginkan untuk koneksi yang lebih stabil.
+   
    b. Muhammad Qhozi Qudama
 
    LTE memiliki kecepatan unduh lebih tinggi (26,6 Mb/s) dibanding WiFi (20,6 Mb/s), sementara WiFi unggul dalam kecepatan unggah (13,9 Mb/s vs. 7,4 Mb/s). Sinyal LTE cukup bagus dengan RSRP -82 dBm, tetapi memiliki SNR rendah (5.0 dB), yang dapat memengaruhi kestabilan koneksi. WiFi memiliki sinyal yang sangat kuat (-52 dBm) dengan link speed 65 Mbps, namun berada di channel 2 pada 2.4 GHz yang rentan terhadap interferensi. LTE lebih cocok untuk unduhan cepat dan mobilitas, sedangkan WiFi lebih ideal untuk unggahan stabil dalam ruangan. Untuk optimasi, pindah ke channel 1, 6, atau 11 di 2.4 GHz atau gunakan 5 GHz jika tersedia.
