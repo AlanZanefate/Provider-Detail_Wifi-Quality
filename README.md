@@ -29,5 +29,6 @@ Kelompok 1 :
    Sinyal XL dengan RSRP -83 dBm, ASU 57, dan RSRQ -9 dB tergolong baik dan cukup stabil untuk aktivitas sehari-hari seperti browsing dan streaming. RSRP -83 dBm menunjukkan sinyal yang masih kuat, sementara ASU 57 menandakan kualitas sinyal yang cukup tinggi. RSRQ -9 dB juga masuk kategori baik, menandakan kualitas sinyal yang stabil. Kombinasi ini memastikan koneksi yang andal, meskipun kondisi lingkungan dan kepadatan jaringan tetap dapat memengaruhi performanya.
 3. Melakukan analisis data seluler dengan **Network Cell Info** di dekat tower BTS.
 4. Melakukan analisis kualitas WiFi dengan **WiFi Analyzer**.
-   ![image](https://github.com/user-attachments/assets/2bebb4d2-d90a-4a6b-984c-5396b00db692)
+   ![image](https://github.com/user-attachments/assets/dbb8061d-bb94-40fa-92a3-0eba1fc953da)
+
 
