@@ -31,9 +31,8 @@ Kelompok 1 :
    d. Muhammad Zihni Athallah
 
    Jaringan Tri "3SinyalKuatHemat" memiliki sinyal cukup baik dengan RSRP -90 dBm di sel utama, tetapi kualitasnya (RSRQ -12 dB) kurang stabil, terutama jika ada gangguan atau banyak pengguna. Nilai RSSNR 3.0 dB menunjukkan adanya noise yang dapat mempengaruhi kecepatan internet. Sel tetangga memiliki sinyal lebih lemah (RSRP -100 dBm, RSRQ -20 dB), sehingga jika jaringan berpindah ke sel ini, koneksi bisa melambat atau tidak stabil. Secara keseluruhan, sinyal masih cukup baik, tetapi kestabilannya bergantung pada lokasi dan kepadatan pengguna. Jika sering terganggu, disarankan berpindah tempat atau mengunci jaringan ke LTE Only untuk koneksi lebih stabil.
-   
-4. Melakukan analisis data seluler dengan **Network Cell Info** di dekat tower BTS.
-5. Melakukan analisis kualitas WiFi dengan **WiFi Analyzer**.
+
+3. Melakukan analisis kualitas WiFi dengan **WiFi Analyzer**.
    ![image](https://github.com/user-attachments/assets/dbb8061d-bb94-40fa-92a3-0eba1fc953da)
 
 
