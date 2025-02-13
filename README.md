@@ -52,3 +52,7 @@ Kelompok 1 :
    Jaringan WiFi @net-unsri-newBB beroperasi pada frekuensi 5 GHz di Channel 52 (5260 MHz) dengan lebar pita 80 MHz dan kekuatan sinyal cukup kuat di sekitar 2.3 meter dengan -54 dBm, serta menawarkan kecepatan koneksi 96 Mbps yang ideal untuk aktivitas berat seperti streaming dan gaming. Selain itu, jaringan ini tersedia di Channel 60 (5300 MHz) dengan sinyal lebih lemah (-78 dBm) hingga jarak 35.7 meter, dan juga pada frekuensi 2.4 GHz di Channel 11 (2462 MHz) dengan jangkauan lebih luas hingga 9.7 meter dan kekuatan sinyal -60 dBm. Perangkat yang digunakan berasal dari Hewlett Packard Enterprise (HPE), yang umumnya ditemukan di lingkungan kampus atau perusahaan besar.
 
 
+Dokumentasi Tambahan
+![image](https://github.com/user-attachments/assets/968b467b-b403-43dc-90b9-b671cbb2d917)
+
+
