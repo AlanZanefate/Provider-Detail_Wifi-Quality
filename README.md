@@ -1,7 +1,7 @@
 # Provider-Detail_Wifi-Quality
 Repository ini berisi mengenai analisis beberapa provider jaringan menggunakan aplikasi **Network Cell Info** dan kualitas WiFi dengan aplikasi **WiFi Analyzer**.
 
-Kelompok 1 :
+Kelompok 3 :
 1. Alamsyah Putra 09011282227114
 2. Muhammad Zihni Athallah 09011282227084
 3. Muhammad Ghozi Qudama 09011282126083
